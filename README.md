@@ -5,16 +5,16 @@
   <img src="https://readme-typing-svg.demolab.com?color=%23d61707&size=32&center=true&vCenter=true&width=700&height=60&lines=AI+%26+Machine+Learning+Engineer;AI+%7C+Machine+Learning+%7C+MLOps;NLP+%7C+Deep+Learning+%7C+Big+Data;Computer+Vision+%7C+Transformers;Problem+Solving+%7C+SQL" alt="Typing SVG" />
 </p>
 
-
-<p align="center">
-  <a href="https://github.com/abdallahm7moud">
-    <img src="https://img.shields.io/badge/Follow%20me-brightpink?style=social&logo=github" alt="GitHub Follow" />
-  </a>
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=abdallahm7moud&label=Profile%20views&color=blue&style=flat" alt="abdallahm7moud" /> 
 </p>
 
 ---
 
-## 👋 About Me
+## <img src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width="30px">  About Me
+
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="200px"/>
+
 
 Hi! I'm a passionate **AI & Machine Learning Engineer** who thrives on building intelligent systems. I love applying cutting-edge models to real-world challenges, optimizing algorithms, and exploring the future of AI.
 
@@ -55,19 +55,7 @@ Hi! I'm a passionate **AI & Machine Learning Engineer** who thrives on building 
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdallahm7moud&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahm7moud&theme=radical" alt="Streak Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahm7moud&layout=compact&theme=radical" alt="Top Languages" height="180em" />
-</div>
-
-
----
-
-
-## 🌐 Connect with Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdallahm7moud" target="_blank">
@@ -79,5 +67,12 @@ Hi! I'm a passionate **AI & Machine Learning Engineer** who thrives on building 
   
 </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdallahm7moud&show_icons=true&theme=dark" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahm7moud&theme=dark" alt="Streak Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahm7moud&layout=compact&theme=dark" alt="Top Languages" height="180em" />
+</div>
+
 
 ---
+
