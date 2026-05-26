@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdallah Mahmoud</h1>
-<h3 align="center">AI & ML Trainee @ <a href="https://iti.gov.eg/home" target="_blank">ITI</a></h3>
+<h3 align="center">AI/ML Engineer | ITI Intake 45 | FCIS MU</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?color=%23d61707&size=32&center=true&vCenter=true&width=700&height=60&lines=AI+%26+Machine+Learning+Engineer;AI+%7C+Machine+Learning+%7C+MLOps;NLP+%7C+Deep+Learning+%7C+Big+Data;Computer+Vision+%7C+Transformers;Problem+Solving+%7C+SQL" alt="Typing SVG" />
